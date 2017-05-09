@@ -1,5 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -15,15 +16,23 @@
 		"tmp/cache",
 		".vagrant"
 	],
-	"font_size": 14,
+	"font_size": 15,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"AdvancedNewFile",
+		"CoolFormat",
+		"Emmet",
 		"PHP",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SublimeERB",
+		"SyncedSideBar",
 		"Vintage"
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"scroll_past_end": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true

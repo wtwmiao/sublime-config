@@ -33,5 +33,11 @@
     { "keys": ["super+,"], "command": "jump_back" },
     { "keys": ["super+."], "command": "jump_forward" },
 
+    { "keys": ["ctrl+/"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+
+      { "keys": ["alt+1"], "command": "goto_symbol_in_project" },
+
+      { "keys": ["alt+2"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+
      { "keys": ["alt+f"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}}
 ]
